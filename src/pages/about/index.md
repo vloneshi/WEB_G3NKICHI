@@ -1,19 +1,19 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: Our Values at G3NKICHI
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Quality First
+We believe that true luxury begins with quality. Every piece in our collection is made with the finest materials and attention to detail, ensuring that you receive fashion that is built to last. Our commitment to quality means you can trust that each item is as durable as it is stylish.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Timeless Elegance
+At G3NKICHI, we create fashion that transcends trends. Our designs are not only beautiful today but are crafted to stay relevant and chic for years to come. We embrace the idea that elegance should be lasting, and our pieces are made to be cherished and worn through many seasons.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Craftsmanship
+Fashion is an art, and we treat it as such. Every item is created with meticulous care and precision. From the stitching to the finishing touches, our craftsmanship is a reflection of our passion for creating high-quality, refined pieces that stand out for their attention to detail.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Sustainability
+We’re committed to making choices that are better for the planet. Our products are designed to be both luxurious and eco-friendly.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Customer Care
+We are dedicated to providing exceptional customer service, ensuring that you feel confident, supported, and satisfied at every step. From helping you choose the perfect item to providing personalized assistance, we are here to make your journey with us unforgettable.
