@@ -7,7 +7,7 @@ subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Bonjour! Welcome to G3NKICHI
   description: >
-    Discover a world of elegance and luxury, where high-quality fashion meets timeless style. Whether you're looking for the perfect dress, stylish accessories, or that statement piece, we’re here to help you look and feel your best. Explore our curated collection and experience fashion made with passion and precision.
+    Discover a world of elegance and luxury, where high-quality fashion meets timeless style. Whether you're looking for the perfect dress, stylish accessories, or that statement piece, we’re here to help you look and feel your best. Explore our curated collection and experience fashion made with passion and precisionn.
 description: >-
   G3NKICHI is the ultimate destination for fashion lovers who want to discover elegant, high-quality pieces and support a brand that values craftsmanship. We take design, quality, and style seriously, and we’re excited to share our passion for timeless fashion with everyone.
 subdescription: >-
