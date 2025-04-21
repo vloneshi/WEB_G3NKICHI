@@ -22,7 +22,7 @@ intro:
         Midnight Cascade is a strapless gown designed to exude elegance and grace. With its flowing silhouette and charming drapery details, this dress creates a modern and stunning look. This dress blends luxury and simplicity, adding a touch of unparalleled sophistication to whoever wears it.
     - image: /img/blushserenity-G3NKICHI.png
       text: >
-        Blush Serenity is a pastel pink bag with subtle hints of light blue, designed to bring a touch of elegance and tranquility to any outfit. Its delicate pearl straps add a sophisticated and luxurious detail, making it the perfect accessory for both casual and formal occasions. Crafted with high-quality materials, this bag offers a balance of style and practicality, adding a refined charm to every look.
+        Blush Serenity is a pastel pink bag with subtle hints of light blue, designed to bring a touch of elegance and tranquility to any outfit. Its delicate pearl straps add a sophisticated and luxurious detail, making it the perfect accessory for both casual and formal occasions. Crafted with high-quality materials, this bag offers a balance of style and practicality, adding a refined charm to every lookk.
     - image: /img/roséradiance-G3NKICHI.png
       text: >
         Rosé Radiance is a stunning pink diamond bracelet that exudes timeless elegance and luxury. The soft, romantic pink hue of the diamonds is perfectly complemented by their radiant sparkle, making it a captivating piece that adds a touch of sophistication to any ensemble. This bracelet is the ideal accessory for those who appreciate beauty, grace, and a hint of glamour in their jewelry collectionn.
