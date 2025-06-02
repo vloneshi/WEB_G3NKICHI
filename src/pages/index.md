@@ -11,7 +11,7 @@ mainpitch:
 description: >-
   G3NKICHI is the ultimate destination for fashion lovers who want to discover elegant, high-quality pieces and support a brand that values craftsmanship. We take design, quality, and style seriously, and we’re excited to share our passion for timeless fashion with everyone.
 subdescription: >-
-  G3NKICHI is the ultimate destination for fashion lovers who want to discover elegant, high-quality pieces and support a brand that values craftsmanship. We take design, quality, and style seriously, and we’re excited to share our passion for timeless fashion with everyonee.
+  Our carefully curated collections blend classic elegance with modern sophistication, offering versatile pieces that empower you to express your unique style. Every item is crafted with precision and care, ensuring that luxury is accessible without compromise. At G3NKICHI, we believe fashion is not just about what you wear, it’s about how you feel.
 intro:
   blurbs:
     - image: /img/snakey-G3NKICHI.png
