@@ -7,7 +7,9 @@ subheading: Elevate your style while empowering sustainable artisans and ethical
 mainpitch:
   title: Bonjour! Welcome to Genkichi 
   description: >
-    Welcome to Genkichi, your destination for timeless elegance and luxury fashion. Discover a carefully curated collection of high-quality dresses, accessories, and statement pieces designed to elevate your style and confidence. Each item is crafted with passion, precision, and a commitment to sustainable and ethical fashion practices. Whether you're dressing for a special occasion or adding everyday sophistication to your wardrobe, Genkichi offers pieces that combine classic design with modern trends. Explore our exclusive range and experience fashion that not only looks beautiful but also supports artisans and sustainable craftsmanship worldwide.
+    Genkichi is a women’s fashion brand that presents elegant clothing with high quality, designed for modern women who value beauty, comfort, and attention to detail.
+    
+    We believe that fashion is not just about fleeting trends, but about style that reflects character and timeless elegance. By prioritizing craftsmanship, selecting premium materials, and offering designs that are both aesthetic and functional, Genkichi is committed to delivering collections that not only captivate visually, but are also durable and relevant through various moments in a woman's life.
 description: >-
   Genkichi is the ultimate destination for fashion lovers who want to discover elegant, high-quality pieces and support a brand that values craftsmanship. We take design, quality, and style seriously, and we’re excited to share our passion for timeless fashion with everyone.
 subdescription: >-
