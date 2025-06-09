@@ -6,9 +6,21 @@ featuredpost: true
 featuredimage: /img/wardrobe.jpg
 description: Discover the art of timeless dressing with GENKICHI's guide to building your perfect capsule wardrobe.
 tags:
-  - capsule-wardrobe
-  - fashion-tips
-  - timeless-style
+  - capsule wardrobe
+  - fashion tips
+  - timeless style
+  - capsule wardrobe guide
+  - how to build a capsule wardrobe
+  - minimalist fashion essentials
+  - timeless wardrobe pieces
+  - elegant outfit ideas
+  - versatile fashion staples
+  - sustainable fashion tips
+  - chic capsule wardrobe
+  - quality over quantity fashion
+  - everyday luxury clothing
+
+
 ---
 ![Capsule Wardrobe](/img/wardrobe.jpg)
 

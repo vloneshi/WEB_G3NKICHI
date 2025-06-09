@@ -9,7 +9,14 @@ tags:
   - fashion
   - elegance
   - luxury
-  - timeless-style
+  - timeless style
+  - timeless fashion
+  - modern elegance
+  - elegant outfit ideas
+  - modern fashion trends
+  - luxury fashion brands
+  - minimalist wardrobe essentials
+
 ---
 ![G3NKICHI Style](/img/pilosofi.jpg)
 

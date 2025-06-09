@@ -6,9 +6,21 @@ featuredpost: true
 description: >-
   Go behind the scenes and discover the craftsmanship behind GENKICHI’s most iconic designs and silhouettes.
 tags:
-  - design-process
-  - behind-the-scenes
+  - design process
+  - behind the scenes
   - craftsmanship
+  - signature fashion silhouettes
+  - elegant clothing design
+  - timeless feminine fashion
+  - luxury fashion craftsmanship
+  - modern minimalist fashion
+  - sculpted waist style
+  - draped fashion designs
+  - fashion with strong silhouettes
+  - how to dress with elegance
+  - classic meets modern fashion
+
+
 ---
 
 
