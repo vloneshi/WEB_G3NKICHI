@@ -2,16 +2,16 @@
 templateKey: index-page
 title: Great coffee with a conscience
 image: /img/home-G3NKICHI.jpg
-heading: Elegance Within Reach, Luxury in Every Detail.
-subheading: Support sustainable farming while enjoying a cup
+heading: Where Elegant Fashion Meets Everyday Luxury
+subheading: Elevate your style while empowering sustainable artisans and ethical fashion practices.
 mainpitch:
-  title: Bonjour! Welcome to GENKICHI
+  title: Bonjour! Welcome to Genkichi 
   description: >
-    Discover a world of elegance and luxury, where high-quality fashion meets timeless style. Whether you're looking for the perfect dress, stylish accessories, or that statement piece, we’re here to help you look and feel your best. Explore our curated collection and experience fashion made with passion and precisionn.
+    Welcome to Genkichi, your destination for timeless elegance and luxury fashion. Discover a carefully curated collection of high-quality dresses, accessories, and statement pieces designed to elevate your style and confidence. Each item is crafted with passion, precision, and a commitment to sustainable and ethical fashion practices. Whether you're dressing for a special occasion or adding everyday sophistication to your wardrobe, Genkichi offers pieces that combine classic design with modern trends. Explore our exclusive range and experience fashion that not only looks beautiful but also supports artisans and sustainable craftsmanship worldwide.
 description: >-
-  GENKICHI is the ultimate destination for fashion lovers who want to discover elegant, high-quality pieces and support a brand that values craftsmanship. We take design, quality, and style seriously, and we’re excited to share our passion for timeless fashion with everyone.
+  Genkichi is the ultimate destination for fashion lovers who want to discover elegant, high-quality pieces and support a brand that values craftsmanship. We take design, quality, and style seriously, and we’re excited to share our passion for timeless fashion with everyone.
 subdescription: >-
-  Our carefully curated collections blend classic elegance with modern sophistication, offering versatile pieces that empower you to express your unique style. Every item is crafted with precision and care, ensuring that luxury is accessible without compromise. At GENKICHI, we believe fashion is not just about what you wear, it’s about how you feel.
+  Our carefully curated collections at Genkichi blend classic elegance with modern sophistication, offering versatile, high-quality pieces that empower you to express your unique style. Every item is crafted with precision and care, ensuring luxury fashion is accessible without compromise. At Genkichi, we believe fashion is not just about what you wear, it’s about how you feel.
 intro:
   blurbs:
     - image: /img/snakey-G3NKICHI.png
