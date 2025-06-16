@@ -2,7 +2,9 @@ module.exports = {
   siteMetadata: {
     title: "G3NKICHI",
     description:
-      "G3NKICHI is a fashion brand offering elegant, high-quality clothing with timeless style. Our website is built with Gatsby and Netlify CMS, following JAMstack architecture for fast, reliable performance and seamless shopping experience.",
+      "Genkichi is a fashion brand offering elegant, high-quality clothing with timeless style. Our website is built with Gatsby and Netlify CMS, following JAMstack architecture for fast, reliable performance and seamless shopping experience.",
+    author:"Yoshi Nathania",
+    keywords:"timeless fashion, elegant fashion, timeless clothing, premium fashion store, fashion with craftsmanship, modern elegance clothing, genkichi fashion",
     url: "https://genkichi.store/",
   },
   plugins: [
