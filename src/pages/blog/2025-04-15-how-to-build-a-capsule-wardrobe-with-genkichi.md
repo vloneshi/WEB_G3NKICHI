@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-title: How to Build a Capsule Wardrobe with GENKICHI
+title: How to Build a Capsule Wardrobe with Genkichi
 date: 2025-04-15T12:00:00.000Z
 featuredpost: true
 featuredimage: /img/wardrobe.jpg
-description: Discover the art of timeless dressing with GENKICHI's guide to building your perfect capsule wardrobe.
+description: Discover the art of timeless dressing with Genkichi's guide to building your perfect capsule wardrobe.
 tags:
   - capsule wardrobe
   - fashion tips
@@ -24,9 +24,9 @@ tags:
 ---
 ![Capsule Wardrobe](/img/wardrobe.jpg)
 
-Minimalism isn’t about having less — it’s about having *more* of what matters. A capsule wardrobe is the secret to dressing well without the overwhelm.
+Minimalism isn’t about having less, it’s about having *more* of what matters. A capsule wardrobe is the secret to dressing well without the overwhelm.
 
-At GENKICHI, we design with intention, which means every piece can be part of a wardrobe that works harder and looks better.
+At Genkichi, we design with intention, which means every piece can be part of a wardrobe that works harder and looks better.
 
 ---
 
@@ -46,7 +46,7 @@ When your wardrobe is built on solid foundations, you spend less time choosing a
 
 ---
 
-## GENKICHI Essentials for Your Capsule:
+## Genkichi Essentials for Your Capsule:
 
 - **The Statement Dress** – bold yet timeless, ready for anything  
 - **The Perfect Blazer** – sharp lines, soft structure  
@@ -58,7 +58,7 @@ When your wardrobe is built on solid foundations, you spend less time choosing a
 
 ## Final thoughts
 
-Capsule dressing is not about limitation — it’s about liberation. With GENKICHI, you're investing in style that evolves with you and elevates every day.
+Capsule dressing is not about limitation, it’s about liberation. With Genkichi, you're investing in style that evolves with you and elevates every day.
 
 Let’s build a wardrobe that reflects your elegance, effortlessly.
 

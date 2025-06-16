@@ -4,7 +4,7 @@ title: 'The Story of Our Signature Silhouettes'
 date: 2025-04-16T13:00:00.000Z
 featuredpost: true
 description: >-
-  Go behind the scenes and discover the craftsmanship behind GENKICHI’s most iconic designs and silhouettes.
+  Go behind the scenes and discover the craftsmanship behind Genkichi’s most iconic designs and silhouettes.
 tags:
   - design process
   - behind the scenes
@@ -24,7 +24,7 @@ tags:
 ---
 
 
-Every GENKICHI piece begins with a single idea: to craft clothing that empowers and endures.
+Every Genkichi piece begins with a single idea: to craft clothing that empowers and endures.
 
 Our silhouettes are carefully developed, not only to fit beautifully, but to tell a story of refined strength, fluid elegance, and timeless femininity.
 
@@ -54,6 +54,6 @@ Each silhouette is born from:
 
 The right silhouette can do more than flatter it can transform how you feel. We believe fashion is not about hiding, but about *highlighting* your essence.
 
-When you wear GENKICHI, you're wearing something crafted to move with your life, not just your body.
+When you wear Genkichi, you're wearing something crafted to move with your life, not just your body.
 
 ✨ Because elegance is more than style, it’s presence.
