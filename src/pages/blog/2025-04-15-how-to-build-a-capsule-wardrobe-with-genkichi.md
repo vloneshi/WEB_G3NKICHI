@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+path: /blog
 title: How to Build a Capsule Wardrobe with Genkichi
 date: 2025-04-15T12:00:00.000Z
 featuredpost: true

@@ -1,5 +1,6 @@
 ---
 templateKey: 'blog-post'
+path: /blog
 title: 'The Story of Our Signature Silhouettes'
 date: 2025-04-16T13:00:00.000Z
 featuredpost: true
