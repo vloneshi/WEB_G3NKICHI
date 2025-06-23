@@ -4,7 +4,7 @@ module.exports = {
     description:
       "Genkichi is a fashion brand offering elegant, high-quality clothing with timeless style. Our website is built with Gatsby and Netlify CMS, following JAMstack architecture for fast, reliable performance and seamless shopping experience.",
     author:"Yoshi Nathania",
-    keywords:"timeless fashion, elegant fashion, timeless clothing, premium fashion store, fashion with craftsmanship, modern elegance clothing, genkichi fashion",
+    keywords:"intentional fashion for women, elegant fashion with meaning, slow luxury fashion brand, modern heritage clothing label, sustainable elegance for modern women, refined wardrobe essentials, quiet luxury womenswear, crafted silhouettes fashion, timeless style, modern soul, genkichi fashion",
     url: "https://genkichi.store/",
   },
   plugins: [
