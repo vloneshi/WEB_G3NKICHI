@@ -4,7 +4,7 @@ title: How to Build a Capsule Wardrobe with Genkichi
 date: 2025-04-15T12:00:00.000Z
 featuredpost: true
 featuredimage: /img/wardrobe.jpg
-description: Discover the art of timeless dressing with Genkichi's guide to building your perfect capsule wardrobe.
+description: Discover the art of timeless dressing with Genkichi's guide to building your perfect
 tags:
   - capsule wardrobe
   - fashion tips
