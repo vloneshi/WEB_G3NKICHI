@@ -4,7 +4,7 @@ title: Understanding Genkichi's Style Philosophy
 date: 2025-04-14T10:00:00.000Z
 featuredpost: true
 featuredimage: /img/pilosofi.jpg
-description: Discover how Genkichi blends timeless elegance with modern sophistication
+description: Explore Genkichi’s fashion insights and styling tips
 tags:
   - fashion
   - elegance
