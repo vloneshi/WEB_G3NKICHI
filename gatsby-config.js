@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "G3NKICHI",
-    description: "GENKICHI is a fashion brand offering timeless, elegant womenswear crafted with purpose and refined detail.",
+    description: "Genkichi we design with intention which means every piece can be part of a wardrobe that works harder and looks better.",
     author:"Yoshi Nathania",
     keywords:"intentional fashion for women, elegant fashion with meaning, slow luxury fashion brand, modern heritage clothing label, sustainable elegance for modern women, refined wardrobe essentials, quiet luxury womenswear, crafted silhouettes fashion, timeless style, modern soul, genkichi fashion",
     url: "https://genkichi.store/",
