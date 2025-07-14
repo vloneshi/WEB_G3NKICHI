@@ -7,13 +7,17 @@ subheading: Elevate your style while empowering sustainable artisans and ethical
 mainpitch:
   title: Bonjour! Welcome to Genkichi 
   description: >
-    Genkichi is a women’s fashion brand that presents elegant clothing with high quality, designed for modern women who value beauty, comfort, and attention to detail.
+    Genkichi is a women’s fashion brand that presents elegant clothing crafted with premium quality and intentional design tailored for modern women who appreciate beauty, comfort, and attention to detail.
     
     We believe that fashion is not just about fleeting trends, but about style that reflects character and timeless elegance. By prioritizing craftsmanship, selecting premium materials, and offering designs that are both aesthetic and functional, Genkichi is committed to delivering collections that not only captivate visually, but are also durable and relevant through various moments in a woman's life.
 description: >-
-  Genkichi is the ultimate destination for fashion lovers who want to discover elegant, high-quality pieces and support a brand that values craftsmanship. We take design, quality, and style seriously, and we’re excited to share our passion for timeless fashion with everyone.
+  Genkichi is the ultimate destination for fashion lovers seeking elegant, high-quality pieces that go beyond trends. We are a women’s fashion brand driven by a deep appreciation for timeless style, intentional design, and fine craftsmanship. Every garment we create is made with purpose to empower confidence, enhance comfort, and express individuality. At Genkichi, we don’t just follow fashion we shape it thoughtfully, blending beauty with function to offer clothing that feels as good as it looks.
 subdescription: >-
   Our carefully curated collections at Genkichi blend classic elegance with modern sophistication, offering versatile, high-quality pieces that empower you to express your unique style. Every item is crafted with precision and care, ensuring luxury fashion is accessible without compromise. At Genkichi, we believe fashion is not just about what you wear, it’s about how you feel.
+
+  Our silhouettes are tailored to move with you flowing when you move, structured where it matters, and flattering in all the right places. Whether it’s a bold statement dress or a subtle blouse, every Genkichi piece is made to feel personal and empowering. We believe that true luxury lies in the details, in garments that make you feel beautiful, capable, and completely yourself without compromise.
+
+  Because at Genkichi, fashion is not just about trends. It's about building a refined wardrobe that reflects your identity, respects your values, and evolves with your life. When you wear Genkichi, you're not just wearing clothes you’re wearing intention, elegance, and a quiet kind of confidence that lasts.
 intro:
   blurbs:
     - image: /img/snakey-G3NKICHI.png
