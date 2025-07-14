@@ -1,9 +1,11 @@
 module.exports = {
   siteMetadata: {
     title: "G3NKICHI",
-    description: "Genkichi we design with intention which means every piece can be part of a wardrobe that works harder and looks better.",
-    author:"Yoshi Nathania",
-    keywords:"intentional fashion for women, elegant fashion with meaning, slow luxury fashion brand, modern heritage clothing label, sustainable elegance for modern women, refined wardrobe essentials, quiet luxury womenswear, crafted silhouettes fashion, timeless style, modern soul, genkichi fashion",
+    description:
+      "Genkichi is a modern fashion label offering timeless, elegant clothing for women who value quality, intentional design, and quiet luxury. Our pieces are crafted to empower confidence and elevate your everyday wardrobe with refined essentials that last.",
+    author: "Yoshi Nathania",
+    keywords:
+      "capsule wardrobe fashion, timeless clothing for women, quiet luxury style, sustainable slow fashion, intentional fashion brand, refined womenswear, Genkichi fashion label, modern elegance fashion, wardrobe staples for women, crafted silhouettes clothing",
     url: "https://genkichi.store/",
   },
   plugins: [
